@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Coinapp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorAccent">@color/teal_200</item>  <!-- ✅ AppCompat에서 사용하는 색상 속성 -->
+        <item name="android:statusBarColor">@android:color/black</item>  <!-- ✅ 상태바 색상 추가 -->
+    </style>
+</resources>
